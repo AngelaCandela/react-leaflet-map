@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React Leaflet Map
+### by [SoulWeb Solutions](https://soulweb.it)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
